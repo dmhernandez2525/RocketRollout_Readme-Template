@@ -1,10 +1,4 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** readme id using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -12,10 +6,10 @@
   <a href="https://github.com/<ENTER URL>">
     <img src="https://dev.azure.com/Comfort-Order/RocketRollout/_git/Readme-Template?path=%2Fimages%2Flogo.png&version=GBmaster" alt="Logo" width="800" height="80">
   </a>
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Rocket Rollout</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome README
     <br />
     <a href="https://github.com/<ENTER URL>"><strong>Explore the docs »</strong></a>
     <br />
