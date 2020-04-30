@@ -6,18 +6,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Proprietary License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/<ENTER URL>">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
@@ -155,15 +149,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[forks-shield]: https://img.shields.io/github/forks/<ENTER URL>.svg?style=flat-square
-[forks-url]: https://github.com/<ENTER URL>/network/members
-[stars-shield]: https://img.shields.io/github/stars/<ENTER URL>.svg?style=flat-square
-[stars-url]: https://github.com/<ENTER URL>/stargazers
-[issues-shield]: https://img.shields.io/github/issues/<ENTER URL>.svg?style=flat-square
-[issues-url]: https://github.com/<ENTER URL>/issues
-[license-shield]: https://img.shields.io/github/license/<ENTER URL>.svg?style=flat-square
-[license-url]: https://github.com/<ENTER URL>/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/
 
 [product-screenshot]: images/screenshot.png
